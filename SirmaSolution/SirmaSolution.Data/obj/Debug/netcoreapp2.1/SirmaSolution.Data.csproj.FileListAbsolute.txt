@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\bin\Debug\netcoreapp2.1\SirmaSolution.Data.deps.json
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\bin\Debug\netcoreapp2.1\SirmaSolution.Data.dll
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\bin\Debug\netcoreapp2.1\SirmaSolution.Data.pdb
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\obj\Debug\netcoreapp2.1\SirmaSolution.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\obj\Debug\netcoreapp2.1\SirmaSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\obj\Debug\netcoreapp2.1\SirmaSolution.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\obj\Debug\netcoreapp2.1\SirmaSolution.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\obj\Debug\netcoreapp2.1\SirmaSolution.Data.dll
+C:\Users\User\Desktop\Bobi\SirmaSolution.Web\SirmaSolution.Data\obj\Debug\netcoreapp2.1\SirmaSolution.Data.pdb
